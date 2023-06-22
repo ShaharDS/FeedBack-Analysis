@@ -9,3 +9,9 @@ Given a list of feedback the program will preform a sentiment analysis and will 
 
 
 - Using OpenAi's and Langchain platforms to get great results ![Screenshot_2](https://github.com/ShaharDS/FeedBack-Analysis/assets/132921874/66f3c009-d8cd-4493-9810-db0685e675e6)
+
+
+
+* Two files attached:
+* FB script - Jupyter notebook - just run the cells and it will provide the analysis
+* FB webapp results - PY file - will open a webapp there you should paste a Google Drive link with json files (feedbacks)
