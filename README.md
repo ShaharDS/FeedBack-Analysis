@@ -8,4 +8,4 @@ Given a list of feedback the program will preform a sentiment analysis and will 
 - What you can do to improve your product.
 
 
-- Using OpenAi's and Langchain platforms to get great results![Screenshot_1](https://github.com/ShaharDS/FeedBack-Analysis/assets/132921874/db326b12-ed74-4773-b34a-c7b9412c01da)
+- Using OpenAi's and Langchain platforms to get great results ![Screenshot_2](https://github.com/ShaharDS/FeedBack-Analysis/assets/132921874/66f3c009-d8cd-4493-9810-db0685e675e6)
